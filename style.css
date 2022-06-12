@@ -24,7 +24,7 @@ span{
   border-radius: 10px;
 }
 b{
-  color: purple;
+  color: rgb(227, 0, 0);
 }
 .first,.second{
   background-color: white;
@@ -33,9 +33,9 @@ b{
 }
 .test_image_and_result1,.test_image_and_result2,.test_image_and_result3,.test_image_and_result4,.test_image_and_result5,.test_image_and_result6,.test_image_and_result7,.test_image_and_result8,.test_image_and_result9{
   margin-top: 15px;
-  background-color: rgb(155, 153, 153);
+  background-color: rgb(255, 255, 18);
   border-radius: 10px;
-  box-shadow: 1px 1px 25px grey;
+  box-shadow: 1px 1px 25px rgb(195, 61, 61);
   width:99%;
   margin-bottom: 15px;
 }
@@ -51,4 +51,7 @@ span{
 h4{
   color: white;
   font-weight: bold;
+}
+ol{
+  text-decoration:none;
 }
